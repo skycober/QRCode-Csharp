@@ -1,0 +1,10 @@
+C:\Users\piferrari\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\piferrari\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\piferrari\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\x64\Debug\MessagingToolkit.Barcode.dll
+C:\Users\piferrari\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\piferrari\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\piferrari\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\piferrari\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\piferrari\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\piferrari\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\piferrari\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources

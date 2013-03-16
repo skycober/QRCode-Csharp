@@ -1,0 +1,9 @@
+C:\Users\piferrari\Documents\Visual Studio 2010\Projects\qrcode\qrcode\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\piferrari\Documents\Visual Studio 2010\Projects\qrcode\qrcode\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\piferrari\Documents\Visual Studio 2010\Projects\qrcode\qrcode\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\piferrari\Documents\Visual Studio 2010\Projects\qrcode\qrcode\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\piferrari\Documents\Visual Studio 2010\Projects\qrcode\qrcode\bin\x64\Debug\qrcode.exe
+C:\Users\piferrari\Documents\Visual Studio 2010\Projects\qrcode\qrcode\bin\x64\Debug\qrcode.pdb
+C:\Users\piferrari\Documents\Visual Studio 2010\Projects\qrcode\qrcode\obj\x64\Debug\qrcode.exe
+C:\Users\piferrari\Documents\Visual Studio 2010\Projects\qrcode\qrcode\obj\x64\Debug\qrcode.pdb
+C:\Users\piferrari\Documents\Visual Studio 2010\Projects\qrcode\qrcode\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
